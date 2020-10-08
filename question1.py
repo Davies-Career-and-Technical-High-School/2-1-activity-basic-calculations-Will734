@@ -1,0 +1,5 @@
+w=int(input("Enter an interger: "))
+x=int(w + 1)
+y=int(x+1)
+z=int(y+1)
+str(print(w,  x,  y, z))
